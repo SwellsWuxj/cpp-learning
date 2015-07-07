@@ -1,4 +1,2 @@
 # cpp-learning
-learning c++ step by step
-
-first commit
+First Step,learning c++ basic from <c++ primer 5th>.
